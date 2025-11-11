@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.2.0](https://github.com/capacitor-community/intercom/compare/v7.1.0...v7.2.0) (2025-11-11)
+
+
+### Features
+
+* **ios:** Add SPM support ([#137](https://github.com/capacitor-community/intercom/issues/137)) ([14f607f](https://github.com/capacitor-community/intercom/commit/14f607f7602732b498b1e6d80c89d25dfd24b227))
+
 ## [7.1.0](https://github.com/capacitor-community/intercom/compare/v7.0.3...v7.1.0) (2025-08-21)
 
 
